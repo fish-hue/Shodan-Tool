@@ -34,8 +34,8 @@ pip install shodan requests tabulate filelock python-dotenv
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/fish-hue/shodan-tool.git
-    cd shodan-tool
+    git clone https://github.com/fish-hue/Shodan-Tool.git
+    cd Shodan-Tool
     ```
 
 2. **Create a `.env` file**:
